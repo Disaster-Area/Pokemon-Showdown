@@ -77,8 +77,10 @@ exports.BattleAliases = {
 	// primal reversions
 	"primalgroudon": "Groudon-Primal",
 	"primaldon": "Groudon-Primal",
+	"pdon": "Groudon-Primal"
 	"primalkyogre": "Kyogre-Primal",
 	"primalogre": "Kyogre-Primal",
+	"pogre": "Kyogre-Primal"
 
 	// formes
 	"bugceus": "Arceus-Bug",
@@ -217,6 +219,8 @@ exports.BattleAliases = {
 	"dnite": "Dragonite",
 	"don": "Groudon",
 	"dogars": "Koffing",
+	"dug": "Dugtrio"
+	"duggy": "Dugtrio"
 	"ekiller": "Arceus",
 	"esca": "Escavalier",
 	"ferro": "Ferrothorn",
